@@ -1,4 +1,43 @@
-# 440hz
+# Hi, I'm Steve Fortuin
+
+📍 London, UK &nbsp;·&nbsp; 🎯 Building agents that don't know they're agents &nbsp;·&nbsp; 🔊 Founder, [440hz](https://440hz.uk)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=flat&logo=nvidia&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+> Building the connection layer for human-agent workflows —
+> where agents and humans collaborate without either needing to know which is which.
+
+---
+
+## What I'm building
+
+**[440hz](https://440hz.uk)** — an open infrastructure for connected agent workflows.
+One hub. Many spokes. Agents that talk to each other, and to humans,
+through the same interface. The distinction stops mattering when the work is good enough.
+
+The stack: a private NeMo hub orchestrates a growing set of open-source agent spokes —
+each one independently useful, exponentially more powerful when connected.
+
+---
+
+## Current agents
+
+- 🎙️ **[Syntax](https://github.com/JustSteve1/440Hz)** — listens to your frequency. Extracts keywords, entities, and process patterns from conversation. Maps them into a living knowledge graph. Surfaces what your business is actually saying.
+- 🔭 **Discovery** — reads the market before your brief. Coming soon.
+- 🎨 **Design** — from signal to conviction. Coming soon.
+- 🔨 **Build** — ships what others only sketch. Coming soon.
+- 🚀 **GTM** — one frequency, full resonance. Coming soon.
+
+*This list will grow. Third-party agents coming.*
+
+---
 
 > The boundary between human and agent is becoming a design decision, not a technical one.
 
@@ -52,20 +91,6 @@ The hub is never open sourced. The spokes are.
 
 ---
 
-## The agents
-
-| Agent | Status | What it does |
-|---|---|---|
-| [Syntax](https://github.com/440hz/agent-syntax) | Live | Listens to your frequency. Extracts signal from conversation. |
-| Discovery | In development | Reads the market before your brief. |
-| Design | In development | From signal to conviction. |
-| Build | In development | Ships what others only sketch. |
-| GTM | In development | One frequency. Full resonance. |
-
-Third-party agents coming. If you're building on agent infrastructure and want to reach our network — talk to us.
-
----
-
 ## Stack
 
 Built on NVIDIA NeMo Agent Toolkit, Neo4j, Slack, Auth0, Next.js, and Vercel. Agent-to-agent communication via A2A protocol. Tool integration via MCP.
@@ -82,10 +107,12 @@ If what you're building belongs in this stack — open an issue or reach out dir
 
 ---
 
-## About
+## Find me
 
-440hz is built by [Steve Fortuin](https://www.stevefortuin.me). One person, building in the open, with a clear point of view on where this goes.
+🌐 [440hz.uk](https://440hz.uk) &nbsp;·&nbsp;
+💼 [stevefortuin.me](https://www.stevefortuin.me) &nbsp;·&nbsp;
+📬 [steve@440hz.uk](mailto:steve@440hz.uk)
 
-Every brand has a frequency. This is the infrastructure to find it.
+---
 
-[440hz.uk](https://440hz.uk) · [steve@440hz.uk](mailto:steve@440hz.uk)
+<sub>Every brand has a frequency. This is the infrastructure to find it.</sub>
