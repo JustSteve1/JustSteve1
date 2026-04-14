@@ -1,4 +1,4 @@
-# Hi, I'm Steve Fortuin
+# Hi, I'm Steve 👋
 
 📍 London, UK &nbsp;·&nbsp; 🎯 Building agents that don't know they're agents &nbsp;·&nbsp; 🔊 Founder, [440hz](https://440hz.uk)
 
