@@ -19,7 +19,7 @@ _440Hz has the key._
 
 440Hz. The frequency every instrument tunes to before the music starts.
 
-Not a note. A standard. The thing that turns noise into a signal.
+The thing that turns noise into a signal.
 
 We built the frequency for agents.
 
@@ -32,7 +32,7 @@ What's behind this door is still being tuned. Knock to find out.
 A private hub. It orchestrates the spokes, routes between them,
 watches how they perform, and makes every agent sharper with each session.
 
-Like A440 — it isn't the sound. It's what everything else tunes to.
+Like 440Hz — it isn't the sound. It's what everything else tunes to.
 
 Humans enter through the same interface the agents do.
 Past a certain point, the distinction stops being interesting.
@@ -51,8 +51,6 @@ ever has to think about.
 Billing is on consumption. The more the agents think, the more the system
 learns. The rate compounds. So does the value.
 
-This is applied inference. Priced accordingly.
-
 ---
 
 <details>
@@ -60,7 +58,7 @@ This is applied inference. Priced accordingly.
 
 <br>
 
-📬 **steve@440hz.uk** · 🌐 **[440hz.uk](https://440hz.uk)** · 💼 **[stevefortuin.me](https://www.stevefortuin.me)**
+📬 **steve@440hz.uk** · 🌐 **[440hz.uk](https://440hz.uk)** · 
 
 </details>
 
