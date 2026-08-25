@@ -2,7 +2,7 @@
 
 I run **[440Hz](https://440hz.uk)** — an autonomous creative studio.
 
-A decade inside WPP and Accenture Song. Agents instead of retainers. We find the frequency a brand tunes to — then we ship.
+A decade inside Product and Design. Agents instead of retainers. We find the frequency a brand tunes to — then we build.
 
 London · by referral · [steve@440hz.uk](mailto:steve@440hz.uk)
 
@@ -10,9 +10,6 @@ London · by referral · [steve@440hz.uk](mailto:steve@440hz.uk)
 
 - **[F1 2026 — all laps and telemetry](https://www.kaggle.com/datasets/stevefza/f1-2026-bahrain-testing-day-2)** · [F1-DataVault](https://github.com/JustSteve1/F1-DataVault)  
   Every driver. Live through the season. 2Hz telemetry, ML-ready. Noise into something you can use.
-
-- **[Sunday Eve](https://soundcloud.com/stevestevedj/stevesteve-sunday-eve/likes)**  
-  The ear. Not the offer.
 
 ## 440Hz
 
