@@ -2,7 +2,7 @@
 
 I run **[440Hz](https://440hz.uk)** — an autonomous creative studio.
 
-A decade inside Product and Design. Agents instead of retainers. We find the frequency a brand tunes to — then we build.
+A decade inside Product and Design. Agents instead of retainers. We find the frequency a technology tunes to — then we build.
 
 London · by referral · [steve@440hz.uk](mailto:steve@440hz.uk)
 
