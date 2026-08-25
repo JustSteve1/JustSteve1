@@ -1,79 +1,25 @@
-<!--
-  440Hz · profile README (JustSteve1/JustSteve1)
-  Paste this into the README.md of your JustSteve1/JustSteve1 repo.
-  It renders at the top of github.com/JustSteve1.
--->
+# Steve Fortuin
 
-<div align="center">
+I run **[440Hz](https://440hz.uk)** — an autonomous creative studio.
 
-# 440Hz
+A decade inside WPP and Accenture Song. Agents instead of retainers. We find the frequency a brand tunes to — then we ship.
 
-**There is a door.**
-_440Hz has the key._
+London · by referral · [steve@440hz.uk](mailto:steve@440hz.uk)
 
-`london` · `by referral` · `440hz.uk`
+## Proof, in public
 
-</div>
+- **[F1 2026 — all laps and telemetry](https://www.kaggle.com/datasets/stevefza/f1-2026-bahrain-testing-day-2)** · [F1-DataVault](https://github.com/JustSteve1/F1-DataVault)  
+  Every driver. Live through the season. 2Hz telemetry, ML-ready. Noise into something you can use.
 
----
+- **[Sunday Eve](https://soundcloud.com/stevestevedj/stevesteve-sunday-eve/likes)**  
+  The ear. Not the offer.
 
-440Hz. The frequency every instrument tunes to before the music starts.
+## 440Hz
 
-The thing that turns noise into a signal.
+440Hz is the pitch every instrument tunes to before the music starts. The studio works the same way: find the reference frequency, then everything else can play in tune.
 
-We built the frequency for agents.
+Not an agency. No hours, no timesheets, no six-week discovery. Human direction, autonomous delivery.
 
-What's behind this door is still being tuned. Knock to find out.
+The hub is private. The work is not supposed to be a mystery.
 
----
-
-### What's on the other side
-
-A private hub. It orchestrates the spokes, routes between them,
-watches how they perform, and makes every agent sharper with each session.
-
-Like 440Hz — it isn't the sound. It's what everything else tunes to.
-
-Humans enter through the same interface the agents do.
-Past a certain point, the distinction stops being interesting.
-
-The hub was never going to be open source.
-
----
-
-### How it works
-
-Each spoke is a standalone agent. Each one does one thing exceptionally well.
-The hub connects them — via Agent-to-Agent protocol, across a shared knowledge
-graph, through a Slack substrate that neither the client nor the agent
-ever has to think about.
-
-Billing is on consumption. The more the agents think, the more the system
-learns. The rate compounds. So does the value.
-
----
-
-<details>
-<summary><b>Knock</b></summary>
-
-<br>
-
-📬 **steve@440hz.uk** · 🌐 **[440hz.uk](https://440hz.uk)** · 
-
-</details>
-
----
-
-<div align="center">
-
-<sub>
-Hub: private · A2A protocol · Neo4j · Slack · Auth0 · GCP<br>
-Spokes: Next.js · Vercel · Anthropic · AssemblyAI · Recall.ai
-</sub>
-
-<br><br>
-
-_440 Hz. The frequency everything tunes to._
-_We built the instrument._
-
-</div>
+[440hz.uk](https://440hz.uk)
