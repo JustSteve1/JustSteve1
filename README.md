@@ -13,10 +13,8 @@ I run a creative agency, **[440Hz](https://440hz.uk)**. A decade inside Product 
 
 ## Start here
 
-- 🌀 **[The Ordinary](https://theordinary.club)** · [repo](https://github.com/JustSteve1/theordinary)
-  Find your flow. A daily voice check-in that compares what you remember with what your Bee and WHOOP recorded, and scores your recall against your own baseline.
-- 🏎️ **[F1 2026: all laps and telemetry](https://www.kaggle.com/datasets/stevefza/f1-2026-bahrain-testing-day-2)** · [F1-DataVault](https://github.com/JustSteve1/F1-DataVault)
-  Every driver, live through the season. 2Hz telemetry, ML-ready. Noise into something you can use.
+- 🌀 **[The Ordinary](https://theordinary.club)** - health & wellness app: find your flow, one voice check-in a day, with WHOOP and Amazon Bee ([repo](https://github.com/JustSteve1/theordinary))
+- 🏎️ **[Live F1 Analytics](https://github.com/JustSteve1/F1)** - the standard for live F1 telemetry analysis at 10Hz
 
 ## 440Hz
 
