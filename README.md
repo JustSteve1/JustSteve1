@@ -13,8 +13,8 @@ I run a creative agency, **[440Hz](https://440hz.uk)**. A decade inside Product 
 
 ## Start here
 
-- 🌀 **[The Ordinary](https://theordinary.club)** - health & wellness app: find your flow, one voice check-in a day, with WHOOP and Amazon Bee ([repo](https://github.com/JustSteve1/theordinary))
-- 🏎️ **[Live F1 Analytics](https://github.com/JustSteve1/F1)** - the standard for live F1 telemetry analysis at 10Hz
+- 🌀 **[The Ordinary](https://theordinary.club)** - find your flow. one voice check-in a day, tuned by your WHOOP and Bee ([repo](https://github.com/JustSteve1/theordinary))
+- 🏎️ **[Live F1 Analytics](https://github.com/JustSteve1/F1)** - every car, ten times a second. the standard for live F1 telemetry
 
 ## 440Hz
 
